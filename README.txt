@@ -1,6 +1,12 @@
-Upgrade Image:
+Upgrade image:
 
     ./upgrade.sh
+
+
+Download system:
+
+    http://pan.baidu.com/s/1qYqt8QS
+
 
 Install images:
 
