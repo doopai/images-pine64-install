@@ -8,7 +8,7 @@ Download system:
     http://pan.baidu.com/s/1qYqt8QS
 
 
-Install images:
+Install images to sdcard(for example sdb):
 
     ./install.sh /dev/sdb jessie_pine64_xxxxxxxx.tar.xz
 
