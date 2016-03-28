@@ -10,7 +10,7 @@ Download system:
 
 Install images:
 
-    ./install.sh /dev/sdb images/trusty_pine64.tar.xz
+    ./install.sh /dev/sdb images/jessie_pine64_xxxxxxxx.tar.xz
 
 
 See:
